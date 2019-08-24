@@ -1,0 +1,7 @@
+archivo de configutracion varias de coordinador
+
+config 1
+
+config 2
+
+config 3
